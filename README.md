@@ -1,7 +1,7 @@
 # intro-git
 
 # files
-
+avinash.txt
 satyam.txt
 new-name
 manas.txt
